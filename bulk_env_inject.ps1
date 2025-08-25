@@ -6,7 +6,8 @@ Get-Content "featureflags.txt" | ForEach-Object {
     }
 }
 
-# Or use setx for permanent user environment variables
 foreach ($key in $envVars.Keys) {
-    setx $key $envVars[$key]
+    Write-Host "Injecting feature: $key=$($envVars[$key])"
+    $output = setx $key $envVars[$key]
+    Write-Host $output
 }
