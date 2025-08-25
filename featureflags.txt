@@ -1,0 +1,15 @@
+civil-imodel-connector-cifconverterv2=0
+save-ids-as-codes=0
+2d-models-spatial=0
+3d-elements-graphics=0
+imodelbridge-repositorylink-useguid=0
+open-v8-rootfile-once=1
+reject-ecef-without-gcs=0
+imbm-override-all-illformed-urns=0
+imodelbridge_externalsource_codevalue_by_name=0
+skip-drawings-and-sheets=0
+convert-sheet-index=0
+allow-hypermodeling=1
+dgnv8-connector-use-descriptive-partition-name=0
+dgnv8-connector-find-defModel-under-subject=0
+imbm-minimal-CifTerrain-representation=0
