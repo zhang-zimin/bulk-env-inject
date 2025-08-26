@@ -13,3 +13,5 @@ allow-hypermodeling=1
 dgnv8-connector-use-descriptive-partition-name=0
 dgnv8-connector-find-defModel-under-subject=0
 imbm-minimal-CifTerrain-representation=0
+filter-by-sheet-index=0
+dgnv8-initialize-dwg-proxy-settings=1
